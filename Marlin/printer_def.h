@@ -375,8 +375,8 @@
 #define USE_XMAX_PLUG
 #define USE_YMAX_PLUG
 //#define USE_ZMAX_PLUG
-#define X_BED_SIZE 350 //379
-#define Y_BED_SIZE 350 //395 // 371 new values to fix ender 5 plus Y stalling before hitting end stops.
+#define X_BED_SIZE 358 //379
+#define Y_BED_SIZE 358 //395 // 371 new values to fix ender 5 plus Y stalling before hitting end stops.
 #define X_MIN_POS 0
 #define Y_MIN_POS 0
 #define Z_MIN_POS 0
